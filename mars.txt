@@ -1,4 +1,5 @@
-abc
+athis is a conflict line
+:wqbc
 
 this  ss another line to see the second commit
 
