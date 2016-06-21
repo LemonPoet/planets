@@ -1,0 +1,26 @@
+commit 289e5bd1e9df130333f5b5cd0d8826d622108eb9
+Author: Geoff Woods <g.woods@latrobe.edu.au>
+Date:   Tue Jun 21 04:44:14 2016 +0000
+
+    fourth line added
+
+commit 17270197d9ebeb5712f0b7435f845743db72ab09
+Author: Geoff Woods <g.woods@latrobe.edu.au>
+Date:   Tue Jun 21 04:31:40 2016 +0000
+
+    adding the third file
+
+commit 0b66c62ddb59599d906093e8d4f08e10a1c1af96
+Author: Geoff Woods <g.woods@latrobe.edu.au>
+Date:   Tue Jun 21 04:26:44 2016 +0000
+
+    2nd line added to amrs file
+
+commit 5bd0b6b59cfb696782b3e76b99448f7d002f893e
+Author: Geoff Woods <g.woods@latrobe.edu.au>
+Date:   Tue Jun 21 04:21:32 2016 +0000
+
+    adding mars
+   
+
+a line at the botton
