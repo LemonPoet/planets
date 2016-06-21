@@ -2,7 +2,7 @@ athis is a conflict line
 :wqbc
 
 this  ss another line to see the second commit
-
+conflict line
 
 this is another line
 
