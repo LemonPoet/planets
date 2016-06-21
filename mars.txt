@@ -1,7 +1,7 @@
 abc
 
 this  ss another line to see the second commit
-
+conflict line
 
 this is another line
 
